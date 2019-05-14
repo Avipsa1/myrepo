@@ -1,0 +1,18 @@
+---
+title: "My1stINTERACTfile"
+author: 'Avipsa Roy, PhD Geography (ASU Id: 1213288490)'
+date: "May 14, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Dummy markdown - First sample RmD file for INTERACT summit
+
+![A GIF that defines me...](http://1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/blog_arcs.gif)
+
+
